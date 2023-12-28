@@ -62,5 +62,3 @@ If you have improvements to suggest or find any issues with the solutions, feel 
 This repository is licensed under the [MIT License](LICENSE), allowing you to use the code for any purpose. Ensure to include the original copyright and license notice in any copy of the software or substantial portions of the software.
 
 Happy coding!
-
-[Your Name]
