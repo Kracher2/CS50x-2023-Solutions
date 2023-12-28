@@ -1,0 +1,22 @@
+Times:
+
+10 simulations: 0m0.029s
+100 simulations: 0m0.029s
+1000 simulations: 0m0.035s
+10000 simulations: 0m0.102s
+100000 simulations: 0m0.656s
+1000000 simulations: 0m7.045s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+Initially, I anticipated a linear relationship between the number of simulations and the corresponding execution time. My expectation was that, for instance, increasing the simulations from 10 to 100 would result in a tenfold increase in time. However, the observed data did not align with this assumption.
+For the first few increments, from 10 to 1000 simulations, the time remained relatively consistent at around 0m0,035s. It was only when reaching 10.000 simulations that a noticeable jump occurred, with the time increasing to 0m0,102s. Subsequently, the trend continued to deviate from a straightforward linear progression, particularly evident with 100.000 and 1.000.000 simulations.
+This divergence suggests that factors beyond a simple linear relationship impact the computational time as the number of simulations increases. The initial assumption of a proportional increase in time with the growth of simulations proved incorrect, highlighting the complexity of the computational dynamics involved.
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?:
+
+After careful consideration of the computational time and associated costs for each simulation, I have chosen to define predictions as "good enough" when reaching 10000 simulations. Up to this point, the time required remains reasonable, increasing to 0m0,102s. Beyond 10000 simulations, the computational time escalates more significantly, and the associated costs become less justified for the marginal improvements in accuracy.
+By setting the threshold at 10000 simulations, I aim to strike a balance between achieving an acceptable level of accuracy and managing computational expenses effectively. This decision is based on the observed data, where the computational time starts to increase more noticeably after this point. It allows for a pragmatic approach that meets the requirements of the task while optimizing the use of computational resources.
