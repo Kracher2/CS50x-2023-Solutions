@@ -19,14 +19,14 @@ Welcome to my CS50x journey! This repository showcases my **detailed solutions**
 ## **Directory Structure**
 
 - `Week1/`
-  - `Lab1/`: Lab exercises for Week 1
+  - `Lab1/`: Lab solutions for Week 1
   - `ProbSet1/`: Problem Set solutions for Week 1
 - `Week2/`
-  - `Lab2/`: Lab exercises for Week 2
+  - `Lab2/`: Lab solutions for Week 2
   - `ProbSet2/`: Problem Set solutions for Week 2
 - ...
 - `Week8/`
-  - `Lab8/`: Lab exercises for Week 8
+  - `Lab8/`: Lab solutions for Week 8
   - `ProbSet8/`: Problem Set solutions for Week 8
 
 ## **Solution Validation**
