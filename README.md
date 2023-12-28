@@ -1,6 +1,6 @@
 # **CS50x Solutions: Comprehensive Week-by-Week Code Samples**
 
-Welcome to my CS50x journey! This repository showcases my **detailed solutions** to the problem sets and labs from Harvard University's CS50x course. My solutions cover the material up to Week 8. Unfortunately, my CodeSpace encountered issues after that, and I apologize for any inconvenience this may cause.
+Welcome to my CS50x journey! This repository showcases my **detailed solutions** to the problem sets and labs from Harvard University's CS50x course from 2023. My solutions cover the material up to Week 8. Unfortunately, my CodeSpace encountered issues after that, and I apologize for any inconvenience this may cause.
 
 ## **Table of Contents**
 
